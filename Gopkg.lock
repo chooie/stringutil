@@ -4,11 +4,11 @@
 [[projects]]
   name = "github.com/chooie/assert"
   packages = ["."]
-  revision = "f8394482747887dfb65165bb3b0afa1dc9e779ff"
+  revision = "3e68b9b0b91e1f976269b1dacb9882d6e0c154e9"
 
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "9948913d856f08dacad847099abf3c1a51db799e3442ed0ea49129ca877b8992"
+  inputs-digest = "9a9ab149a97ce3a77dddd5eb0b05bd53734c36e84fec80ead03c44c2ec831a3c"
   solver-name = "gps-cdcl"
   solver-version = 1

@@ -26,7 +26,7 @@
 
 
 [[constraint]]
-  revision = "f8394482747887dfb65165bb3b0afa1dc9e779ff"
+  revision = "3e68b9b0b91e1f976269b1dacb9882d6e0c154e9"
   name = "github.com/chooie/assert"
 
 [prune]
